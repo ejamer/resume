@@ -39,4 +39,4 @@ Information Developer / Technical Writer
 
 ### Skills and Talents
 * Scripting: Python, JavaScript, PHP, Perl
-* Tools: Jenkins, Jira, 
+* Tools: Jenkins, Jira, Visual Studio Code, Git
