@@ -1,6 +1,7 @@
 # Edward Jamer
 * edward.jamer@gmail.com
 * 506-282-3219
+* view my [online resume](https://htmlpreview.github.io/?https://github.com/ejamer/resume/blob/main/resume-edward_jamer.html)
 
 ## You should hire me...
 
